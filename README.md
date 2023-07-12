@@ -51,5 +51,3 @@ A continuación se presenta un ejemplo de cómo utilizar esta interfaz:
 5. **Resultado:** El resultado de la optimización se mostrará en la etiqueta de la ventana. Por ejemplo, si se encuentra una solución óptima, podría mostrar "Solución: x = 2.0, y = 3.0".
 
 Recuerda que estos valores son solo un ejemplo y puedes ajustarlos según tus necesidades.
-
-¡Disfruta resolviendo tus problemas de optimización lineal con esta interfaz! Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en preguntar.
