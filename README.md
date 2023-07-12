@@ -15,7 +15,13 @@ También se proporciona un archivo `requirements.txt` para instalar las dependen
 pip install -r requirements.txt
 ```
 
-## Uso
+# Uso
+
+## Ejecutar
+
+```bash
+python3 solved.py
+```
 
 Al ejecutar el código, se abrirá una ventana de interfaz gráfica donde puedes ingresar los coeficientes de la función objetivo y las restricciones. A continuación, se describen los pasos para utilizar la interfaz:
 
